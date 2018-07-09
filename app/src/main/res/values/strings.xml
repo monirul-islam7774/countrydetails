@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CountryProfile</string>
+    <string name="Bangladesh_button">Bangladesh</string>
+    <string name="India_button">India</string>
+    <string name="Pakistan_button">Pakistan</string>
+    <string name="Title_text">Exit</string>
+    <string name="messgage_text">Are you sure, you want to exit?</string>
+    <string name="Bangladesh_deatils">
+        Bangladesh is a country state in Southern Asia,
+        bordering the Bay of Bengal to the South,
+        almost entirely encircled by the Republic of India to the West,
+        North and East, and Myanmar to the Southeast.
+        Although off the beaten path by virtually any measurement,
+        Bangladesh is populated by friendly locals.
+    </string>
+    <string name="India_deatils">
+       The Republic of India (Hindi: भारत गणराज्य) is a country in Asia.
+        It is at the center of South Asia. India has more than
+        1.2 billion (1,210,000,000) people, which is the second largest population
+        in the world.[19] It is the seventh largest country in the world by
+        area and the largest country in South Asia.
+        It is also the most populous democracy in the world.
+    </string>
+    <string name="Pakistan_deatils">
+       Pakistan[b] (Urdu: پاکِستان‬‎), officially the
+        Islamic Republic of Pakistan (Urdu: اِسلامی جمہوریہ پاکِستان‬‎),
+        is a country in South Asia. It is the fifth-most populous country
+        with a population exceeding 212,742,631 people.[19] In area,
+        it is the 33rd-largest country, spanning 881,913 square kilometres (340,509 square miles).
+        Pakistan has a 1,046-kilometre (650-mile) coastline along
+        the Arabian Sea and Gulf of Oman in the south and is bordered
+        by India to the east, Afghanistan to the west, Iran to the southwest,
+        and China in the far northeast. It is separated narrowly from
+        Tajikistan by Afghanistan's Wakhan Corridor in the northwest,
+        and also shares a maritime border with Oman.
+    </string>
+</resources>
